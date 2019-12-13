@@ -1,7 +1,7 @@
 # Projet 4 - Concevez la solution technique d'une application de restauration en ligne, Express Food
 **Formation OpenClassrooms, parcours Développeur d'application front-end**
 
-**Consigne :** a
+**Consigne :**
 
 > ExpressFood a besoin que vous conceviez sa base de données. Il s'agit
 > de stocker notamment :
