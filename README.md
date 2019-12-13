@@ -1,4 +1,4 @@
-# Projet 4 - ## Concevez la solution technique d'une application de restauration en ligne, Express Food
+# Projet 4 - Concevez la solution technique d'une application de restauration en ligne, Express Food
 **Formation OpenClassrooms, parcours Développeur d'application front-end**
 
 **Consigne :** a
