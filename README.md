@@ -22,13 +22,6 @@
 > Vous veillerez à produire des schémas UML cohérents par rapport au
 > cahier des charges et respectant les standards UML. Vous concevrez
 > ensuite un schéma de base de données SQL adéquat.
-> 
-> Schémas demandés :
-> 
-> -   Diagrammes de cas d’utilisations (création d’une commande, ajout d’un plat du jour, livraison d’une commande)
-> -   Modèle de données
-> -   Diagramme de classes
-> -   Diagrammes de séquences (création d’une commande, ajout d’un plat du jour, livraison d’une commande)
 
 **Compétences évaluées :**
 -   Réaliser des schémas UML cohérents et en accord avec les besoins énoncés
